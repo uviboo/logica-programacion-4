@@ -1,0 +1,20 @@
+body {
+  font-size: 20px;
+  font-family: "Times New Roman", sans-serif;
+  text-align: center;
+  margin: 50px;
+  background-color: #5d7ba6;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+button {
+  background-color: rgb(255, 208, 19);
+  border-radius: 10px;
+}
+
+#resultado {
+  font-weight: bold;
+}
